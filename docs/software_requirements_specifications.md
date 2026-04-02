@@ -35,9 +35,9 @@ This document is intended for software developers that participe in the project 
 
 2.1.4. When the user clicks on a recipe preview, the system shall navigate to the actual recipe content page.
 
-2.1.5. While the user is in the search page, the system shall provide an search bar for searching recipes.
+2.1.5. While the user is in the search page, the system shall provide a search bar for searching recipes.
 
-2.1.6. When introducing and input in the search bar, the system shall display a list of matching recipe previews.
+2.1.6. When introducing an input in the search bar, the system shall display a list of matching recipe previews. When the user clicks on one of them, the system shall navigate to the recipe content page.
 
 2.1.7. While the user is in a recipe content page, the system may provide an option to download a recipe in PDF format.
 
