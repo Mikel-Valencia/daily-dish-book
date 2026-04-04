@@ -6,9 +6,14 @@ The purpose of this file is to define and describe the technology stack used for
 
 - [PNPM](https://pnpm.io/). A fast, disk space efficient package manager used in Node.js environment.
 - [Astro](https://astro.build/). A web framework for content-driven websites.
+  - [astro-seo](https://github.com/jonasmerlin/astro-seo#readme). Makes it easy to add SEO relevant tags an Astro app.
+  - [astro-pagefind](https://github.com/shishkin/astro-pagefind). Astro integration for Pagefind static site search.
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML). The basic component of a website or web application. Defines the structure and content of a web.
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS). A stylesheet language that allows to apply styles into HTML or XML documents, or documents based on these.
 - [PostCSS](https://postcss.org/). A tool for transforming styles using JavaScript plugins.
+  - [autoprefixer](https://github.com/postcss/autoprefixer). Adds vendor prefixes using data from [Can I Use](https://caniuse.com/).
+  - [cssnano](https://cssnano.github.io/cssnano/). Contains plugins that optimize CSS size for use in production.
+  - [postcss-import](https://www.npmjs.com/package/postcss-import). Inlines the stylesheets referred to by @import rules.
 - [TypeScript](https://www.typescriptlang.org/). A strongly typed language built on JavaScript.
 - [MDX](https://mdxjs.com/). Combines markdown and JSX languages, allowing to use JSX in a markdown content.
 - [Zod](https://zod.dev/). A TypeScript-first validation library. It is used to define schemas for data validation.
